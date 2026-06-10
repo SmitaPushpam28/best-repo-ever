@@ -1,3 +1,3 @@
 # best-repo-ever
 "Hello World"
-Just a different another change...
+Just a different second change.
